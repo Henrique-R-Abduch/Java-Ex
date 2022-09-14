@@ -20,11 +20,11 @@ public class ex10 {
 		}
 
 		if (valor2 > valor1) {
-			System.out.printf("Valor2 é menor que valor1 ");
+			System.out.printf("Valor 2 é menor que valor 1 ");
 		}
 
 		if (valor2 == valor1) {
-			System.out.printf("Valor1 é idêntico ao valor2 ");
+			System.out.printf("Valor 1 é idêntico ao valor 2 ");
 		}
 
 	}
